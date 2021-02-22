@@ -1,0 +1,3 @@
+This is simple script used to guess the stock price based on the last few days stocks price using recurrent neural network(ML) theorem.
+
+Simple interactive web stock price detector is made by using streamlit.

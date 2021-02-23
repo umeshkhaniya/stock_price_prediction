@@ -8,7 +8,7 @@
 # stock_url = "https://finance.yahoo.com/quote/FB?p=FB"
 #
 # page = requests.get(stock_url)
-# print(page)
+
 #
 # soup = BeautifulSoup(page, "html.parser")
 # price = soup.f
